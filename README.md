@@ -1,1 +1,1 @@
-# Tips-master
+# Tips
